@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: >-
+  If you use Nubi or its campus data, please cite it as below, and also cite
+  the original data sources (see README.md, "Data sources and licences").
+title: "Nubi: a walkable 3D map of Yonsei University's Sinchon campus"
+abstract: >-
+  Nubi (누비, from 누비다, "to roam all over freely" in Korean): a 2.5-3D web
+  map of Yonsei University's Sinchon campus, built from public data
+  (OpenStreetMap, GIS building outlines, the building register, a terrain
+  model) and modelled building by building. It offers third- and
+  first-person views, walking routes in three profiles (quickest, step-free,
+  least climbing), an underground view, facilities with their opening hours,
+  shade at any time, and a map assistant. All its data is kept as one
+  versioned SQLite release with an IMDF-based schema.
+type: software
+authors:
+  - family-names: Park
+    given-names: Jimin
+    affiliation: "Department of Battery Conflation Engineering, Yonsei University"
+    email: pjm@yonsei.ac.kr
+url: "https://nubi.yonsei.ac.kr"
+repository: "https://github.com/pjmbatman/nubi"
+version: "1.1"
+date-released: "2026-10-31"
+license: CC-BY-4.0
+keywords:
+  - campus map
+  - 3D map
+  - indoor mapping
+  - IMDF
+  - pedestrian routing
+  - accessibility
+  - OpenStreetMap
+  - Yonsei University

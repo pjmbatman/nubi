@@ -1,0 +1,9 @@
+The documentation and images in this repository (README.md, DATA_FORMAT.md, CHANGELOG.md and docs/) are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+This license does not cover the map data. Data derived from OpenStreetMap remains under the Open Database License
+(ODbL 1.0), © OpenStreetMap contributors; the public datasets Nubi uses keep their own terms, listed in README.md
+("Data sources and licences"). The MPMC logo in docs/assets/ belongs to its lab and is used only to acknowledge it.
+
+Copyright (c) 2026 Jimin Park
