@@ -238,10 +238,8 @@ this repository" button reads [`CITATION.cff`](CITATION.cff).
   <a href="https://www.mpmc.yonsei.ac.kr/"><img src="docs/assets/mpmc-lab-logo.png" alt="MPMC logo" width="120" align="right"></a>
 </p>
 
-The servers that run Nubi (the web server behind the site and the assistant, and the GPU development server that
-builds and renders the map) are provided by the
-[Multi-Physics Modeling & Computation Lab (MPMC)](https://www.mpmc.yonsei.ac.kr/), Yonsei University, led by
-Prof. Jung-Il Choi. I thank Prof. Choi and the MPMC lab for supporting the operation of this platform.
+I thank Prof. Jung-Il Choi and the [Multi-Physics Modeling & Computation Lab (MPMC)](https://www.mpmc.yonsei.ac.kr/),
+Yonsei University, for supporting this project.
 
 I also thank Yonsei University for providing the domain **nubi.yonsei.ac.kr**.
 
