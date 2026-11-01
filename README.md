@@ -177,8 +177,7 @@ it is not offered as a download.
 
 - **Not an official Yonsei University service.** Nubi is an independent personal project. Official information is on
   the university's own pages; Nubi links to them.
-- **No course catalogue.** Nubi does not collect or store the 수강편람 or the university's room-occupancy data. It
-  only reads what a student types or pastes, such as a room code.
+- **No course catalogue.** Nubi does not collect or store the 수강편람 or the university's room-occupancy data.
 - **No room booking, no indoor floor plans of others.** Booking is on the university's own systems. Third-party floor
   plans, indoor maps and 360° photos are never copied into Nubi.
 - **Not a live map.** The site calls no external map service while you use it; the data is built offline and
