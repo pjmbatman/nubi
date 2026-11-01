@@ -53,6 +53,8 @@ against several references (see [Data sources](#data-sources-and-licences)). The
 new students finding their first lecture room, and everyone looking for the step-free way, an open café or some
 shade.
 
+<img src="docs/assets/screenshots/underwood.jpg" alt="언더우드관 and its lawn in the afternoon, modelled from public data" width="720">
+
 | | |
 |---|---|
 | **Map** | the campus in 2.5–3D in the browser (WebGL), third person and first person, light and dark themes, the real sun position for any time and date in Sinchon |
@@ -83,6 +85,8 @@ follows Tobler's hiking function. You choose:
 
 The route is drawn on the ground as a line of light that stays visible through buildings, with a card that gives the
 time, distance, climb, steps and the turns in words. The assistant's route answers come from the same engine.
+
+<img src="docs/assets/screenshots/route-follow.jpg" alt="Following a route from above as it turns between buildings" width="720">
 
 <img src="docs/assets/screenshots/arrival.jpg" alt="The arrival marker at 백양누리 at the end of a route" width="720">
 
