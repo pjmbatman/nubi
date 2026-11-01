@@ -53,8 +53,6 @@ against several references (see [Data sources](#data-sources-and-licences)). The
 new students finding their first lecture room, and everyone looking for the step-free way, an open café or some
 shade.
 
-<img src="docs/assets/screenshots/underwood.jpg" alt="언더우드관 and its lawn in the afternoon, modelled from public data" width="720">
-
 | | |
 |---|---|
 | **Map** | the campus in 2.5–3D in the browser (WebGL), third person and first person, light and dark themes, the real sun position for any time and date in Sinchon |
@@ -67,11 +65,34 @@ shade.
 | **Assistant** | a map assistant that answers in Korean using Nubi's own data and tools, and shows the answer on the map |
 | **Campus data** | everything above in one versioned SQLite release with a documented schema ([DATA_FORMAT.md](DATA_FORMAT.md)) |
 
+## Gallery
+
+Landmarks of the Sinchon campus as Nubi draws them: every picture is rendered from the map itself.
+
+<table>
+<tr>
+<td width="50%"><img src="docs/assets/screenshots/baekyangro.jpg" alt="Baekyang-ro from the main gate side (백양로)" width="100%"><br><sub><b>Baekyang-ro from the main gate side</b> · 백양로</sub></td>
+<td width="50%"><img src="docs/assets/screenshots/underwood.jpg" alt="Underwood Hall and its garden (언더우드관)" width="100%"><br><sub><b>Underwood Hall and its garden</b> · 언더우드관</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/assets/screenshots/library.jpg" alt="Central Library and Yonsei-Samsung Library (중앙도서관 · 삼성학술정보관)" width="100%"><br><sub><b>Central Library and Yonsei-Samsung Library</b> · 중앙도서관 · 삼성학술정보관</sub></td>
+<td width="50%"><img src="docs/assets/screenshots/library-dusk.jpg" alt="The libraries at dusk (해 질 녘 중앙도서관)" width="100%"><br><sub><b>The libraries at dusk</b> · 해 질 녘 중앙도서관</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/assets/screenshots/ibs.jpg" alt="Advanced Science & Technology Center and IBS (첨단과학관 · IBS관)" width="100%"><br><sub><b>Advanced Science & Technology Center and IBS</b> · 첨단과학관 · IBS관</sub></td>
+<td width="50%"><img src="docs/assets/screenshots/ibs-dusk.jpg" alt="The same corner at dusk (해 질 녘 첨단과학관)" width="100%"><br><sub><b>The same corner at dusk</b> · 해 질 녘 첨단과학관</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/assets/screenshots/amphitheater.jpg" alt="The open-air amphitheater (노천극장)" width="100%"><br><sub><b>The open-air amphitheater</b> · 노천극장</sub></td>
+<td width="50%"><img src="docs/assets/screenshots/baekyangro-dusk.jpg" alt="Baekyang-ro at dusk (해 질 녘 백양로)" width="100%"><br><sub><b>Baekyang-ro at dusk</b> · 해 질 녘 백양로</sub></td>
+</tr>
+</table>
+
 ## Features
 
 ### Routes: three ways to walk
 
-<img src="docs/assets/screenshots/route.jpg" alt="A walking route drawn as a glowing line across the campus" width="720">
+<img src="docs/assets/screenshots/route.jpg" alt="A walking route from 첨단과학관 to 백양누리 drawn as a glowing line across the campus" width="720">
 
 The route engine runs over the walkable network of the campus (paths, stairs, crossings, underground passages and
 building entrances) laid on the map's own ground, so every edge knows its length, climb and steps. Walking time
@@ -85,8 +106,6 @@ follows Tobler's hiking function. You choose:
 
 The route is drawn on the ground as a line of light that stays visible through buildings, with a card that gives the
 time, distance, climb, steps and the turns in words. The assistant's route answers come from the same engine.
-
-<img src="docs/assets/screenshots/route-follow.jpg" alt="Following a route from above as it turns between buildings" width="720">
 
 <img src="docs/assets/screenshots/arrival.jpg" alt="The arrival marker at 백양누리 at the end of a route" width="720">
 
